@@ -1,0 +1,51 @@
+/**
+	TT Extension RTL CSS
+*/
+ 
+
+/* category - 02 */
+.theme-rtl .category-gallery-wrap .category-gallary .cat-right .cat-img-3, 
+.theme-rtl .category-gallery-wrap .category-gallary .cat-right .cat-img-3 img{
+	float: left;
+}
+.theme-rtl .category-gallery-wrap .category-gallary .cat-right .cat-img-4{
+	left: auto;
+	right: 0;
+}
+.theme-rtl .category-gallery-wrap .category-gallary .cat-left .cat-img-1{
+	left: 0;
+	right: auto;
+}
+
+
+/* testimonial */
+.theme-rtl .tt-testimonial.owl-carousel .owl-nav button.owl-next {
+	right: 0;
+	left: auto;
+}
+.theme-rtl .tt-testimonial.owl-carousel .owl-nav button.owl-prev {
+	right: 60px;
+	left: auto;
+}
+.theme-rtl .tt-testimonial.owl-carousel .owl-dots{
+	right: 20px;
+	left: auto;
+}
+.theme-rtl .testimonial-wrap .testimonial-info-wrapper::before{
+	right: 2px;
+	left: auto;
+}
+.theme-rtl .tt-testimonial .swiper-navigation{
+	flex-direction: row-reverse;
+}
+.theme-rtl .testimonial-wrap .testimonial-info-wrapper .testimonial-info .testimonial-designation{
+	margin: 0 10px 0 0;
+	padding: 0 12px 0 0;
+}
+.theme-rtl .testimonial-wrap .testimonial-info-wrapper .testimonial-info .testimonial-designation::before {
+	left: auto;
+	right: 0;
+}
+.theme-rtl .tt-testimonial.owl-carousel .owl-dots::after{
+	padding: 0 5px 0 0;
+}

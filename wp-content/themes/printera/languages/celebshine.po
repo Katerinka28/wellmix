@@ -1,0 +1,1130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Printera\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-14 18:33+0000\n"
+"PO-Revision-Date: 2022-11-09 10:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: printera\n"
+
+#: inc/core/product-threesixty.php:27
+msgid "#product-360-view"
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/comment.php:72
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: Orders URL 2: Addresses URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:50
+#, php-format
+msgid ""
+"%4$s From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>. %5$s %4$s manage your <a href=\"%2$s\">shipping and billing "
+"addresses</a>. %5$s %4$s <a href=\"%3$s\">edit your password and account "
+"details</a>. %5$s"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce/woocommerce-custom.php:354
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:204 inc/core/pagination.php:55
+#: inc/woocommerce/woocommerce-override.php:397
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s: Number of comments.
+#: functions.php:151
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/comment.php:79
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: functions.php:164
+msgid "0 Comments"
+msgstr ""
+
+#: inc/core/product-threesixty.php:50
+msgid "0%"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid "1"
+msgstr ""
+
+#: functions.php:166
+msgid "1 Comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "2"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:668
+msgid "2 Column"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "3"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:664
+msgid "3 Column"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "4"
+msgstr ""
+
+#: 404.php:22 404.php:24 404.php:39 inc/page-header/breadcrumbs.php:94
+msgid "404"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "5"
+msgstr ""
+
+#: inc/comment.php:51
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "ADD"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:170
+msgid "Add a review"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:982
+#: inc/woocommerce/woocommerce-custom.php:1019
+msgid "Add Image"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:52
+msgid "Add to cart"
+msgstr ""
+
+#: inc/core/sidebar.php:16 inc/core/sidebar.php:27 inc/core/sidebar.php:38
+#: inc/core/sidebar.php:49 inc/core/sidebar.php:60 inc/core/sidebar.php:71
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/cart/cart.php:150 woocommerce/cart/cart.php:311
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/page-header/breadcrumbs.php:30
+msgid "Archive : "
+msgstr ""
+
+#: inc/page-header/breadcrumbs.php:92
+msgid "Articles By : "
+msgstr ""
+
+#: woocommerce/cart/cart.php:98 woocommerce/cart/cart.php:259
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:217
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:52
+msgid "Awaiting product image"
+msgstr ""
+
+#: 404.php:48
+msgid "Back To Home"
+msgstr ""
+
+#: template-parts/header/header-top.php:21
+msgid "Banner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:170
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: inc/page-header/title.php:49
+msgid "Blog"
+msgstr ""
+
+#: inc/page-header/breadcrumbs.php:27
+msgid "Blogs"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:933
+#: woocommerce/single-product/meta.php:35
+msgid "Brands : "
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:40
+msgid "Browse products"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:1139
+msgid "Buy Now"
+msgstr ""
+
+#. Name of the theme
+msgid "Printera"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:40
+msgid "Printera Extension"
+msgstr ""
+
+#: inc/core/product-variation.php:104
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: comments.php:110
+msgid "Comment"
+msgstr ""
+
+#. If comment number in your language requires declension,
+#. translate this to 'on'. Do not translate into your own language.
+#: functions.php:143
+msgctxt "Comment number declension: on or off"
+msgid "off"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/woocommerce-override.php:140
+#: inc/woocommerce/woocommerce-override.php:143
+#: inc/woocommerce/woocommerce-override.php:147
+#: inc/woocommerce/woocommerce-override.php:196
+#: inc/woocommerce/woocommerce-override.php:199
+#: inc/woocommerce/woocommerce-override.php:203
+msgid "Compare"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:127
+msgid "Contact Form 7"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-audio.php:85 template-parts/content-excerpt.php:69
+#: template-parts/content-gallery.php:78 template-parts/content-image.php:69
+#: template-parts/content-search.php:126 template-parts/content-video.php:87
+#: template-parts/content.php:126
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. %s: WordPress
+#: template-parts/footer/site-info.php:55
+#, php-format
+msgid "Copyright 2022, %s All rights reserved"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150 woocommerce/cart/cart.php:311
+#: woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:1302
+msgid "Deal Of The Product"
+msgstr ""
+
+#: inc/demo/import.php:16
+msgid "Demo 1"
+msgstr ""
+
+#: inc/demo/import.php:30
+msgid "Demo 2"
+msgstr ""
+
+#: inc/demo/import.php:44
+msgid "Demo 3"
+msgstr ""
+
+#: inc/demo/import.php:58
+msgid "Demo 4"
+msgstr ""
+
+#: inc/demo/import.php:72
+msgid "Demo 5"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:97
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:48
+msgid "edit_address"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:61
+msgid "Elementor"
+msgstr ""
+
+#: comments.php:103
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:190
+msgid "Email *"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: inc/core/subscribe-popup.php:16
+msgid "Email Subscribe Image"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Email:"
+msgstr ""
+
+#: searchform.php:26
+msgid "Enter Search Keyword..."
+msgstr ""
+
+#: inc/tgm/required-plugins.php:54
+msgid "Envato Market"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:951
+msgid "Estimated Delivery : "
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:611
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/core/sidebar.php:25
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/core/sidebar.php:36
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/core/sidebar.php:47
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/core/sidebar.php:58
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "forever"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:962
+msgid "Free Shipping : "
+msgstr ""
+
+#. 1: Orders URL 2: Address URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:47
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href="
+"\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:216
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:660
+msgid "Grid View"
+msgstr ""
+
+#: functions.php:51
+msgid "Hamburger Menu"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:916
+msgid "Has Video Tutorial?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid "Hello %1$s %3$s(not %1$s? %2$s)%4$s"
+msgstr ""
+
+#: index.php:23
+msgid "Home"
+msgstr ""
+
+#: template-parts/footer/site-info.php:52
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.templatetrip.com/"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:976
+#: inc/woocommerce/woocommerce-custom.php:1004
+msgid "Image"
+msgstr ""
+
+#: 404.php:43
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:80
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:172
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:672
+msgid "List View"
+msgstr ""
+
+#: template-parts/header/site-loader.php:20
+#: template-parts/header/site-loader.php:32
+msgid "loader"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: template-parts/header/header-one.php:62
+#: template-parts/header/header-one.php:64
+#: template-parts/header/header-one.php:73
+#: template-parts/header/header-one.php:82
+#: template-parts/header/header-three.php:45
+#: template-parts/header/header-three.php:47
+#: template-parts/header/header-three.php:55
+#: template-parts/header/header-three.php:62
+#: template-parts/header/header-two.php:29
+#: template-parts/header/header-two.php:31
+#: template-parts/header/header-two.php:39
+#: template-parts/header/header-two.php:46
+msgid "Logo"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: inc/tgm/required-plugins.php:97
+msgid "Mailchimp"
+msgstr ""
+
+#: functions.php:50
+msgid "Main Menu"
+msgstr ""
+
+#: inc/core/script-style-enqueue.php:24
+msgctxt "Marcellus font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:109
+msgid "Max Mega Menu"
+msgstr ""
+
+#: template-parts/blog/blog-full.php:48 template-parts/blog/blog-full.php:50
+#: template-parts/blog/blog-left.php:59 template-parts/blog/blog-left.php:61
+#: template-parts/blog/blog-right.php:55 template-parts/blog/blog-right.php:57
+#: woocommerce/loop/pagination.php:34 woocommerce/loop/pagination.php:36
+msgid "More posts"
+msgstr ""
+
+#: template-parts/header/header-one.php:165
+#: template-parts/header/header-one.php:169
+#: template-parts/header/header-three.php:168
+#: template-parts/header/header-three.php:172
+#: template-parts/header/header-two.php:173
+#: template-parts/header/header-two.php:177
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:49
+msgid "N/A"
+msgstr ""
+
+#: comments.php:100
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:184
+msgid "Name *"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:42
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:30 woocommerce/cart/mini-cart.php:113
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:218
+msgid "Not that bad"
+msgstr ""
+
+#: inc/page-header/title.php:27
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:121
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:230
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/page-header/title.php:44
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: 404.php:29 404.php:40
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr ""
+
+#: template-parts/content-page.php:23 inc/page-header/breadcrumbs.php:100
+msgid "Page"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/content-audio.php:100 template-parts/content-excerpt.php:92
+#: template-parts/content-gallery.php:93 template-parts/content-image.php:85
+#: template-parts/content-page.php:19 template-parts/content-search.php:141
+#: template-parts/content-video.php:103 template-parts/content.php:141
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:215
+msgid "Perfect"
+msgstr ""
+
+#: inc/comment.php:32
+msgid "Pingback:"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:43
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:27
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:63
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/page-header/breadcrumbs.php:88
+msgid "Posts tagged"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart.php:198 woocommerce/cart/cart.php:264
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:83
+#: woocommerce/cart/cart.php:197 woocommerce/cart/cart.php:244
+msgid "Product"
+msgstr ""
+
+#: inc/core/product-threesixty.php:27
+msgid "Product 360 view"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:109
+#: woocommerce/cart/cart.php:199 woocommerce/cart/cart.php:270
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-override.php:113
+#: inc/woocommerce/woocommerce-override.php:116
+#: inc/woocommerce/woocommerce-override.php:162
+#: inc/woocommerce/woocommerce-override.php:165
+msgid "Quickview"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:214
+msgid "Rate&hellip;"
+msgstr ""
+
+#. %s: rating
+#: inc/woocommerce/woocommerce-override.php:367
+#: inc/woocommerce/woocommerce-override.php:370
+#: inc/woocommerce/woocommerce-override.php:382
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Rated 1 out of 1"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Rated 2 out of 2"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Rated 3 out of 3"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Rated 4 out of 4"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Rated 5 out of 5"
+msgstr ""
+
+#: template-parts/content-audio.php:110 template-parts/content-excerpt.php:102
+#: template-parts/content-gallery.php:103 template-parts/content-image.php:95
+#: template-parts/content-search.php:151 template-parts/content-video.php:113
+#: template-parts/content.php:151
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm/required-plugins.php:115
+msgid "Redux Framework"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/single-product/related.php:28
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:983
+#: inc/woocommerce/woocommerce-custom.php:1020
+msgid "Remove Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:62 woocommerce/cart/cart.php:223
+#: woocommerce/cart/mini-cart.php:63
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: inc/page-header/breadcrumbs.php:32
+msgid "Results : "
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:42
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:47
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/core/script-style-enqueue.php:29
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own language.
+#: inc/core/script-style-enqueue.php:19
+msgctxt "Sacramento font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:488
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: comments.php:106
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:70
+msgid "save_account_details"
+msgstr ""
+
+#: searchform.php:27 inc/woocommerce/woocommerce-custom.php:574
+msgid "Search"
+msgstr ""
+
+#: template-parts/header/header-one.php:129
+#: template-parts/header/header-three.php:128
+#: template-parts/header/header-two.php:133
+msgid "Search for product..."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:562
+msgid "Search products …"
+msgstr ""
+
+#: inc/page-header/title.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:67
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: inc/core/sidebar.php:69
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:676
+msgid "Short View"
+msgstr ""
+
+#: inc/core/sidebar.php:14
+msgid "Sidebar"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: header.php:52
+msgid "Skip to content"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:49
+msgid "SKU:"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:103
+msgid "Smash Balloon Instagram Feed"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:456
+msgid "Sold Out"
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:176
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:132
+#: woocommerce/cart/cart.php:200 woocommerce/cart/cart.php:293
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:28
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:70
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. Author of the theme
+msgid "templatetrip"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:84
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#. Description of the theme
+msgid "Themes &amp; Templates For All Platforms"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:157
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:1303
+msgid "This product will be shown on the product deals of the day."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: footer.php:44
+msgid "Top"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:33
+msgid "TT Extension"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/cart/cart.php:155 woocommerce/cart/cart.php:316
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:219
+msgid "Very poor"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:914
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-override.php:54
+msgid "View cart"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-custom.php:350
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-override.php:124
+#: inc/woocommerce/woocommerce-override.php:127
+#: inc/woocommerce/woocommerce-override.php:131
+#: inc/woocommerce/woocommerce-override.php:180
+#: inc/woocommerce/woocommerce-override.php:183
+#: inc/woocommerce/woocommerce-override.php:187
+#: template-parts/header/header-one.php:171
+#: template-parts/header/header-three.php:174
+#: template-parts/header/header-two.php:179
+msgid "Wishlist"
+msgstr ""
+
+#: template-parts/header/header-one.php:171
+#: template-parts/header/header-three.php:174
+#: template-parts/header/header-two.php:179
+msgid "wishlist"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:67
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:73
+msgid "Yith Color and Label Variations for Woocommerce"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:91
+msgid "YITH Woocommerce Compare"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:85
+msgid "YITH Woocommerce Quick View"
+msgstr ""
+
+#: inc/tgm/required-plugins.php:79
+msgid "YITH Woocommerce Wishlist"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:209
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/comment.php:61
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""

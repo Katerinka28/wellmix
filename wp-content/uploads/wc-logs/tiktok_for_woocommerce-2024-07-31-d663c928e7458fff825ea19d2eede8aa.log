@@ -1,0 +1,28 @@
+2024-07-31T12:56:19+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_66aa3473b8972httpswwwwellmixshopwp-admin","smb_name":"PROD","redirect_url":"https:\/\/www.wellmix.shop\/wp-admin\/"}
+ ajax: no
+2024-07-31T12:56:20+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 20240731125619A89F99CE77CF06B7B1CD,20240731125619A89F99CE77CF06B7B1CD
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 0144d7ea48036f418273d1495eef8740122b0b45b9a5a73969c371463f1b009b773cd196853a43ffeaee7a1d36a2e6ab6c6887a53321a2c28d88cc56a552c1442b0cfc73b20b2ff56192676d396cf24250ff86e4a9e6b916d811409b27339f0e905605869acaa31e2992434f6cd76ce4ee
+x-tt-trace-id: 00-240731125619A89F99CE77CF06B7B1CD-0A3A316A2155898C-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 206
+X-Origin-Response-Time: 96,23.35.216.21
+X-Akamai-Request-ID: 1cbca76e.29a01556
+Date: Wed, 31 Jul 2024 12:56:20 GMT
+X-Cache: TCP_MISS from a96-16-54-164.deploy.akamaitechnologies.com (AkamaiGHost/11.6.0-57528057) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-35-216-21.deploy.akamaitechnologies.com (AkamaiGHost/11.6.0-57528057) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=273, origin; dur=96
+Server-Timing: inner; dur=62
+X-Parent-Response-Time: 368,96.16.54.164
+
+{"code":0,"msg":"ok","data":{"app_secret":"3bfadc3fee765950f20e131b5b26ccb4473ce97b","external_data_key":"d045f5dc-84b3-421a-9f8b-7450aa7189d6","app_id":"7397783010940026896","redirect_uri":"https:\/\/www.wellmix.shop\/wp-admin\/"}}

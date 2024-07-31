@@ -1,0 +1,77 @@
+
+---Завантажені файли---
+Файли імпорту для: Demo 1 успішно завантажено!
+Початковий макс. час виконання = 30
+Інформація про файли:
+URL сайту = https://www.wellmix.shop
+Файл даних = /home/iv551014/wellmix.shop/www/wp-content/themes/printera/inc/demo/demo-01/printera.xml
+Файл віджетів = /home/iv551014/wellmix.shop/www/wp-content/themes/printera/inc/demo/demo-01/printera-widgets.wie
+Файл налаштовувача = /home/iv551014/wellmix.shop/www/wp-content/themes/printera/inc/demo/demo-01/printera-export.dat
+Файли Redux:
+printera_options -> /home/iv551014/wellmix.shop/www/wp-content/themes/printera/inc/demo/demo-01/printera_options.json 
+
+
+------
+Новий виклик AJAX!
+
+
+------
+Новий виклик AJAX!
+
+
+---Імпортування віджетів---
+Sidebar : 
+
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+
+Footer Sidebar 1 : 
+
+Блок - Без назви - Iмпортовано
+Contact Info - Без назви - Iмпортовано
+printera Social Media - Follow Us - Iмпортовано
+
+Footer Sidebar 2 : 
+
+Меню навігації - Quick View - Iмпортовано
+
+Footer Sidebar 3 : 
+
+Меню навігації - Information - Iмпортовано
+
+Footer Sidebar 4 : 
+
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+
+Shop Sidebar : 
+
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+Блок - Без назви - Iмпортовано
+
+Max Mega Menu Widgets : 
+
+Зображення - Без назви - Iмпортовано
+Зображення - Без назви - Iмпортовано
+Зображення - Без назви - Iмпортовано
+Зображення - Без назви - Iмпортовано
+
+
+
+---Імпорт налаштувань Redux---
+Імпорт налаштувань Redux для: printera_options завершено успішно!
+
+---Імпорт власних налаштувань налаштовувача---
+Імпорт налаштувань налаштовувача завершено!
+
+---ocdi/after_import---
+

@@ -1,0 +1,42 @@
+/**
+* Admin CSS
+*/
+
+.elementor-editor-active .elementor-element.elementor-widget-empty {
+    background-color: none !important;
+}
+#smart-product-metabox-list li{
+    float: left;
+    padding: 0 10px;
+    position: relative;
+}
+#smart-product-metabox-list li.ui-sortable-handle .content-wrap{
+    position: relative;
+}
+#smart-product-metabox-list li a.remove-image.button, #smart-product-metabox-list li a.change-image.button.button-small{
+    right: 0;
+    left: auto;
+    top: 31px;
+    bottom: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 25px;
+}
+#smart-product-metabox-list li a.change-image.button.button-small{
+    position: absolute;
+}
+#smart-product-metabox-list li small{
+    position: absolute;
+}
+small {
+    right: 0;
+    left: auto;
+    top: 0;
+    bottom: auto;
+}
+.printera-color-preview{
+    height: 25px;
+    width: 25px;
+}
